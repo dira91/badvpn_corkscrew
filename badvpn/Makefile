@@ -16,7 +16,7 @@ include $(INCLUDE_DIR)/package.mk
 define Package/$(PKG_NAME)
 	SECTION:=net
 	CATEGORY:=Network
-	DEPENDS:=+librt +libpthread +libudev-fbsd +libnss +libopenssl +coreutils +coreutils-stdbuf +openssl-util
+	DEPENDS:=+librt +libpthread +libudev-zero +libnss +libopenssl +coreutils +coreutils-stdbuf +openssl-util
 	TITLE:=BadVPN
 	SUBMENU:=VPN
 endef
