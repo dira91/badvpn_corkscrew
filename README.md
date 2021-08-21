@@ -1,3 +1,5 @@
+# [helmiau/helmiwrt-packages](https://github.com/helmiau/helmiwrt-packages) repository is already include this repository, and further updates will be there.
+
 ### badvpn and corkscrew package for openwrt
 This repository is for archiving badvpn & corkscrew which working with latest snapshot OpenWrt build. Collected by [helmiau](http://www.github.com/helmiau)
 
